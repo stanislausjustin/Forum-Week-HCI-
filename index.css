@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+fieldset {
+    text-align: center;
+    width: 450px;
+    margin: auto;
+}
+body {
+    background-image: url("https://cdn.discordapp.com/attachments/1078890940606976001/1165578446668304415/E5752A28-ABA1-4D0E-B9A1-1E9520DC248A.jpg?ex=65475c85&is=6534e785&hm=c75eab4f5e3079238f5583d86197ebee951c97f94baacfac27e6539c9ada7a89&");
+
+    background-size: cover;
+    margin-top: 12%;
+    display: flex;
+    flex-direction: column;
+}

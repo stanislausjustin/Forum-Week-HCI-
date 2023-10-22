@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://cdn.discordapp.com/attachments/1078890940606976001/1165694516464980099/image.png?ex=6547c89e&is=6535539e&hm=046ad24e70dc1b51761a4303464e8129f12e5acd9fe37893e039695c8ab4036a&");
+    background-size: cover;
+    color: aliceblue;
+}
+fieldset {
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 44%;
+    width: fit-content;
+}
+button {
+    margin-left: 44%;
+}
